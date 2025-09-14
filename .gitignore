@@ -1,0 +1,17 @@
+Python-specific
+pycache/
+venv/
+.env/
+
+Streamlit data
+.env
+data/
+output_data.csv
+output_data.json
+
+IDE and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.log
