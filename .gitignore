@@ -1,4 +1,11 @@
-# Ignore large datasets and generated files
-datasets/
+# Ignore datasets
+*.csv
 *.xlsx
-outputs/
+*.json
+*.zip
+*.tar.gz
+
+# Ignore whole folder
+data/
+datasets/
+
